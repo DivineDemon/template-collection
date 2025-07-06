@@ -2,7 +2,7 @@ import MaxWidthWrapper from "../max-width-wrapper";
 
 const Footer = () => {
   return (
-    <footer className="border-gray-750 relative w-full border border-t bg-gray-100 py-16 dark:bg-black">
+    <footer className="border-gray-750 relative w-full border-t bg-gray-100 py-16 dark:bg-black">
       <MaxWidthWrapper>
         <div className="grid w-full grid-cols-6">
           <div className="flex h-full w-full items-start justify-start">
